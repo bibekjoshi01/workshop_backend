@@ -1,0 +1,14 @@
+[
+  {
+    "model": "core.Country",
+    "fields": {
+      "name": "Nepal"
+    }
+  },
+  {
+    "model": "core.Country",
+    "fields": {
+      "name": "India"
+    }
+  }
+]

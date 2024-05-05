@@ -1,0 +1,35 @@
+[
+  {
+    "model": "auth.UserGroup",
+    "pk": 1,
+    "fields": {
+      "name": "System Vendor",
+      "code_name": "SYSTEM-VENDOR",
+      "permissions": [],
+      "created_by": 1,
+      "is_active": true
+    }
+  },
+  {
+    "model": "auth.UserGroup",
+    "pk": 2,
+    "fields": {
+      "name": "System User",
+      "code_name": "SYSTEM-USER",
+      "permissions": [],
+      "created_by": 1,
+      "is_active": true
+    }
+  },
+  {
+    "model": "auth.UserGroup",
+    "pk": 2,
+    "fields": {
+      "name": "Website User",
+      "code_name": "WEBSITE-USER",
+      "permissions": [],
+      "created_by": 1,
+      "is_active": true
+    }
+  }
+]

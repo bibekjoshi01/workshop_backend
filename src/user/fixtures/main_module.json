@@ -1,0 +1,22 @@
+[
+  {
+    "model": "auth.MainModule",
+    "pk": 1,
+    "fields": {
+      "name": "Core Setup",
+      "codename": "CORE-SETUP",
+      "is_active": true,
+      "created_by": 1
+    }
+  },
+  {
+    "model": "auth.MainModule",
+    "pk": 2,
+    "fields": {
+      "name": "Website Setup",
+      "codename": "WEBSITE-SETUP",
+      "is_active": true,
+      "created_by": 1
+    }
+  }
+]
